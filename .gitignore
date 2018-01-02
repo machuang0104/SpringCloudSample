@@ -1,6 +1,7 @@
 target/
 .mvn
 mvn
+mvnw
 service_log/
 web_log/
 ### STS ###
@@ -16,11 +17,3 @@ web_log/
 *.iws
 *.iml
 *.ipr
-
-### NetBeans ###
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
