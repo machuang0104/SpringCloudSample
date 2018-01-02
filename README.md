@@ -5,12 +5,10 @@
 * [监控中心 admin](#springcloudadmin)
 * 
 
-----
 
 
 
 ## <span id="Project及Eureka创建">Project及Eureka创建</span>
-------
 [详见博客: 创建多module项目](http://blog.csdn.net/machuang30508/article/details/78933646)
 
 ## <span id="springcloudzuul">路由转发 zuul<span>
