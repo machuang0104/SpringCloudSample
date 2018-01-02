@@ -1,6 +1,5 @@
 target/
 .mvn
-mvn
 mvnw
 mvnw.cmd
 service_log/
